@@ -110,7 +110,10 @@ I'm an **open source developer with 20+ years of experience** and a deep love fo
       <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" width="48" height="48" alt="Ubuntu Server"/>
       <br><sub><b>Ubuntu</b></sub>
     </td>
-    <td align="center" width="96"></td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/apple/c0caf5" width="48" height="48" alt="macOS"/>
+      <br><sub><b>macOS</b></sub>
+    </td>
   </tr>
   <tr>
     <th colspan="7">🔧 Platforms, Tools &amp; Databases</th>
@@ -140,7 +143,10 @@ I'm an **open source developer with 20+ years of experience** and a deep love fo
       <img src="https://cdn.simpleicons.org/homeassistant/41bdf5" width="48" height="48" alt="Home Assistant"/>
       <br><sub><b>Home Assistant</b></sub>
     </td>
-    <td align="center" width="96"></td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/homebrew/FBB040" width="48" height="48" alt="Homebrew"/>
+      <br><sub><b>Homebrew</b></sub>
+    </td>
   </tr>
 </table>
 
