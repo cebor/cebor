@@ -157,10 +157,6 @@ I'm an **open source developer with 20+ years of experience** and a deep love fo
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cebor&theme=tokyonight" width="100%"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=cebor&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
