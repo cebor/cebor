@@ -74,12 +74,12 @@ I'm an **open source developer with 20+ years of experience** and a deep love fo
       <br><sub><b>TailwindCSS</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=rust&theme=dark" width="48" height="48" alt="Leptos"/>
+      <img src="https://cdn.simpleicons.org/leptos/c0caf5" width="48" height="48" alt="Leptos"/>
       <br><sub><b>Leptos</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=rust&theme=dark" width="48" height="48" alt="Trunk"/>
-      <br><sub><b>Trunk</b></sub>
+      <img src="https://skillicons.dev/icons?i=rust&theme=dark" width="48" height="48" alt="Axum"/>
+      <br><sub><b>Axum</b></sub>
     </td>
   </tr>
   <tr>
